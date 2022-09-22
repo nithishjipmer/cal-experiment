@@ -168,7 +168,7 @@ $(".next").on("click",function(){
     }
     $(".instill").removeAttr('disabled');
     $("#ddmenu").attr('disabled','disabled');
-    $(".new").html("Answer");
+    $(".new").html("Ans");
     $(".new").attr('disabled','disabled');
 })
 
